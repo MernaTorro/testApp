@@ -1,0 +1,1 @@
+npm gatsby develop
